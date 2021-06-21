@@ -51,3 +51,22 @@
 .special-row-formatting{
     background-color: #B1E5F2;
 }
+#bottom-text-style{
+    color: grey;
+}
+#suggestion-1{
+    background-image: url(../img/monitor.jpg);
+    background-position: center;
+    height: 200px;
+    width: 300px;
+    color: white;
+    padding: 5px;
+}
+#suggestion-2{
+    background-image: url(../img/graph.jpg);
+    background-position: center;
+    height: 200px;
+    width: 300px;
+    color: white;
+    padding: 5px;
+}
