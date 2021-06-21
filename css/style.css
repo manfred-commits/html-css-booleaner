@@ -28,14 +28,19 @@
     text-decoration: none;
     color: #35B0EA;
 }
-#img-container{
-    width: 100%;
+#img-container-1{
+    width: 50%;
+    height: 350px;
+    background-image:url(../img/tim-1.jpg) ;
+    background-position: center;
+    display: inline-block;
 }
-#image-1-formatting{
-    width: 52%;
-}
-#image-2-formatting{
-    width: 45%;
+#img-container-2{
+    width: 48%;
+    height: 350px;
+    background-image: url(../img/tim-2.jpg);
+    background-position: center;
+    display: inline-block;
 }
 #photographers-text-formatting{
     margin-top: 5px;
