@@ -1,6 +1,6 @@
 .container{
     height: 1500px;
-    width: 60%;
+    width: 55%;
     margin: 0 auto;
 }
 #header-formatting{
@@ -21,9 +21,33 @@
 }
 #author-text-formatting{
     margin-top: 0;
+    margin-bottom: 10px;
     color: grey;
 }
 .link-formatting{
     text-decoration: none;
     color: #35B0EA;
+}
+#img-container{
+    width: 100%;
+}
+#image-1-formatting{
+    width: 52%;
+}
+#image-2-formatting{
+    width: 45%;
+}
+#photographers-text-formatting{
+    margin-top: 5px;
+    font-size: 10px;
+}
+.highlighted-text{
+    background-color: yellow;
+}
+#head-row-formatting{
+    background-color: #20A9E5;
+    color: white;
+}
+.special-row-formatting{
+    background-color: #B1E5F2;
 }
