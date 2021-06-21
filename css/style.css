@@ -12,8 +12,11 @@
 }
 #logo-formatting{
     width: 20%;
-    display: inline-block;
-    margin-top: 18px;
+    margin: auto;
+}
+#title-container{
+    width: 55%;
+    margin: 0 auto;
 }
 #title-formatting{
     margin-top: 10px;
