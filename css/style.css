@@ -44,3 +44,10 @@
 .highlighted-text{
     background-color: yellow;
 }
+#head-row-formatting{
+    background-color: #20A9E5;
+    color: white;
+}
+.special-row-formatting{
+    background-color: #B1E5F2;
+}
