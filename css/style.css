@@ -44,6 +44,9 @@
 .highlighted-text{
     background-color: yellow;
 }
+table {
+    border-collapse: collapse;
+  }
 #head-row-formatting{
     background-color: #20A9E5;
     color: white;
