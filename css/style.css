@@ -14,10 +14,6 @@
     width: 20%;
     margin: auto;
 }
-#title-container{
-    width: 62%;
-    margin: 0 auto;
-}
 #title-formatting{
     margin-top: 10px;
     margin-bottom:0 ;
@@ -58,6 +54,10 @@ table {
 #head-row-formatting{
     background-color: #20A9E5;
     color: white;
+}
+.column-formatting{
+    column-width: 500px;
+    text-align: left;
 }
 .special-row-formatting{
     background-color: #B1E5F2;
