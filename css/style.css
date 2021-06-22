@@ -65,6 +65,8 @@ table {
 }
 #suggestion-1{
     background-image: url(../img/monitor.jpg);
+}
+.suggestions-formatting{
     background-position: center;
     height: 200px;
     width: 300px;
@@ -73,9 +75,4 @@ table {
 }
 #suggestion-2{
     background-image: url(../img/graph.jpg);
-    background-position: center;
-    height: 200px;
-    width: 300px;
-    color: white;
-    padding: 5px;
 }
