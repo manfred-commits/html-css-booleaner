@@ -52,10 +52,10 @@ table {
 #head-row-formatting{
     background-color: #20A9E5;
     color: white;
+    text-align: left;
 }
 .column-formatting{
-    column-width: 500px;
-    text-align: left;
+    width: 50%;
 }
 .special-row-formatting{
     background-color: #B1E5F2;
